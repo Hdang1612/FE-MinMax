@@ -1,0 +1,38 @@
+.header-client {
+    font-family: "Poppins", sans-serif;
+}
+
+.logo{
+    font-weight: 700;
+    font-style: normal;
+    color: #46B91D !important;
+    font-size: 40px !important;
+}
+
+.nav-item {
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    margin-right: 10px;
+}
+
+.active-color {
+    color:#5EB600 !important ;
+}
+
+.search-icon {
+    width: 25px;
+    height: 25px;
+    color: #717171 !important;
+    /* position: absolute; */
+    /* margin-left: 20px; */
+}
+
+.login-btn{
+    width: 250px;
+    font-size: 20px !important;
+    border-radius: 100px;
+    border: 2px solid #5EB600;
+    color: #5EB600;
+    background-color: transparent;
+    font-weight: 400;
+}
